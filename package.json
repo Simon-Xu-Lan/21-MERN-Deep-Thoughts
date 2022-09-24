@@ -1,5 +1,5 @@
 {
-  "name": "21-mern-deep-thoughts",
+  "name": "mern-social-media",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
@@ -9,18 +9,10 @@
     "install": "cd server && npm i && cd ../client && npm i",
     "seed": "cd server && npm run seed"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Simon-Xu-Lan/21-MERN-Deep-Thoughts.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Simon-Xu-Lan/21-MERN-Deep-Thoughts/issues"
-  },
-  "homepage": "https://github.com/Simon-Xu-Lan/21-MERN-Deep-Thoughts#readme",
   "devDependencies": {
-    "concurrently": "^7.4.0"
+    "concurrently": "^5.3.0"
   }
 }
